@@ -1,4 +1,4 @@
-# 📱 App Store Ranking Analysis (2017–2023)
+# 📱 ED-TECH PROJECT
 
 Welcome! This project explores trends in mobile app rankings on the **Google Play Store** and **Apple App Store** between 2017 and 2023. Using a combination of metadata, country-level ranking data, and visual analytics, we examine which apps dominated the charts and how trends evolved across time and platforms.
 
