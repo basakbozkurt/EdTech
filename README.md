@@ -21,5 +21,3 @@ This analysis reveals:
 
 - Which apps were most dominant across the years
 ---
-
-Let me know if you want to add installation, usage instructions, or more visuals!
