@@ -14,7 +14,7 @@ The datasets include:
 
 ---
 
-## 📈 [Most Frequently #1-Ranked Apps — Interactive Visualization](visualisations/visualisation.md)
+## 📈 [Most Frequently #1-Ranked Apps — Interactive Visualisation](visualisations/visualisations.md)
 
 Explore an interactive visualization of the apps that most frequently held the **#1 rank** in the charts.  
 This analysis reveals:
