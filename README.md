@@ -11,11 +11,10 @@ The datasets include:
 
 - Unique app listings with metadata
 - Country-specific ranking histories
-- Categorization and title-cleaned datasets
 
 ---
 
-## 📈 [Most Frequently #1-Ranked Apps — Interactive Visualization](visualisation/visualisation.md)
+## 📈 [Most Frequently #1-Ranked Apps — Interactive Visualization](visualisations/visualisation.md)
 
 Explore an interactive visualization of the apps that most frequently held the **#1 rank** in the charts.  
 This analysis reveals:
